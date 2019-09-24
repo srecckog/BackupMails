@@ -1,0 +1,11 @@
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\BackupMails.deps.json
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\BackupMails.runtimeconfig.json
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\BackupMails.runtimeconfig.dev.json
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\BackupMails.dll
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\BackupMails.pdb
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\BackupMails.csprojAssemblyReference.cache
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\BackupMails.csproj.CoreCompileInputs.cache
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\BackupMails.AssemblyInfoInputs.cache
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\BackupMails.AssemblyInfo.cs
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\BackupMails.dll
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\BackupMails.pdb

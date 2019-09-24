@@ -1,0 +1,14 @@
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\win-x64\BackupMails.deps.json
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\win-x64\BackupMails.runtimeconfig.json
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\win-x64\BackupMails.runtimeconfig.dev.json
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\win-x64\BackupMails.dll
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\win-x64\BackupMails.pdb
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\win-x64\BackupMails.csproj.CoreCompileInputs.cache
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\win-x64\BackupMails.AssemblyInfoInputs.cache
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\win-x64\BackupMails.AssemblyInfo.cs
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\win-x64\BackupMails.dll
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\win-x64\BackupMails.pdb
+C:\Users\jplaninic\Source\Repos\BackupMails\obj\Release\netcoreapp2.1\win-x64\BackupMails.csprojAssemblyReference.cache
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\jplaninic\Source\Repos\BackupMails\bin\Release\netcoreapp2.1\win-x64\BackupMails.exe
